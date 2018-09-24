@@ -1,3 +1,3 @@
-import {capitalize} from 'lodash';
+const username = require('./username.txt') as string
 
-console.log("Hello, " + capitalize("typescript") + "!");
+console.log(`Hello, ${username.trim()}!`)
