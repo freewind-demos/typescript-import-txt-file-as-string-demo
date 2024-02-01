@@ -1,15 +1,15 @@
 {
-    "scripts": {
-        "start": "webpack && node bundle.js"
-    },
-    "devDependencies": {
-        "@types/jquery": "^3.3.9",
-        "@types/node": "^10.10.3",
-        "raw-loader": "^0.5.1",
-        "ts-loader": "^5.1.0",
-        "ts-node": "7.0.0",
-        "typescript": "^3.0.3",
-        "webpack": "^4.18.0",
-        "webpack-cli": "^3.1.0"
-    }
+  "scripts": {
+    "start": "webpack && node bundle.js"
+  },
+  "devDependencies": {
+    "@types/jquery": "3.3.9",
+    "@types/node": "10.10.3",
+    "raw-loader": "0.5.1",
+    "ts-loader": "5.1.0",
+    "ts-node": "7.0.0",
+    "typescript": "5.3.3",
+    "webpack": "4.18.0",
+    "webpack-cli": "3.1.0"
+  }
 }
